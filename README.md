@@ -150,8 +150,6 @@ install.packages(c("openxlsx", "ggplot2", "ggfortify", "mFilter",
                    "forecast", "gmm", "minpack.lm", "maxLik"))
 ```
 
-Tested on R ≥ 4.2.
-
 ---
 
 ## Reference
